@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-kaohsiung-travel/precache-manifest.614d53f7e3896bbbb19bda5c4a74980e.js"
+  "/sixfit-react-tour/precache-manifest.7ad75438488166ad95a5f0973aaf9b9b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-kaohsiung-travel/index.html", {
+workbox.routing.registerNavigationRoute("/sixfit-react-tour/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
