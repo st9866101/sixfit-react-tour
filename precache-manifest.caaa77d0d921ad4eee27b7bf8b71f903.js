@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fbbb03a0bac783c17b53",
+    "revision": "91c11b1b78721f17208e",
     "url": "/sixfit-react-tour/static/css/main.e9a76664.chunk.css"
   },
   {
-    "revision": "fbbb03a0bac783c17b53",
-    "url": "/sixfit-react-tour/static/js/main.fbbb03a0.chunk.js"
+    "revision": "91c11b1b78721f17208e",
+    "url": "/sixfit-react-tour/static/js/main.91c11b1b.chunk.js"
   },
   {
     "revision": "cc79fa3910fc97852656",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/sixfit-react-tour/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "62cfa7d493c39c8536f95a843feb78bb",
+    "revision": "6988eca1e439f7671b01d7e37034c189",
     "url": "/sixfit-react-tour/index.html"
   }
 ];
