@@ -1,7 +1,7 @@
 {
   "main.css": "/sixfit-react-tour/static/css/main.b0675538.chunk.css",
-  "main.js": "/sixfit-react-tour/static/js/main.fad60edb.chunk.js",
-  "main.js.map": "/sixfit-react-tour/static/js/main.fad60edb.chunk.js.map",
+  "main.js": "/sixfit-react-tour/static/js/main.68ecd09c.chunk.js",
+  "main.js.map": "/sixfit-react-tour/static/js/main.68ecd09c.chunk.js.map",
   "static/js/1.f643efff.chunk.js": "/sixfit-react-tour/static/js/1.f643efff.chunk.js",
   "static/js/1.f643efff.chunk.js.map": "/sixfit-react-tour/static/js/1.f643efff.chunk.js.map",
   "static/css/2.dfbfec3a.chunk.css": "/sixfit-react-tour/static/css/2.dfbfec3a.chunk.css",
@@ -13,6 +13,6 @@
   "static/css/main.b0675538.chunk.css.map": "/sixfit-react-tour/static/css/main.b0675538.chunk.css.map",
   "static/css/2.dfbfec3a.chunk.css.map": "/sixfit-react-tour/static/css/2.dfbfec3a.chunk.css.map",
   "index.html": "/sixfit-react-tour/index.html",
-  "precache-manifest.d430becd3814d1b901d06f4eec60ef43.js": "/sixfit-react-tour/precache-manifest.d430becd3814d1b901d06f4eec60ef43.js",
+  "precache-manifest.e6e97b3485eaaf8654cb8d4013157628.js": "/sixfit-react-tour/precache-manifest.e6e97b3485eaaf8654cb8d4013157628.js",
   "service-worker.js": "/sixfit-react-tour/service-worker.js"
 }

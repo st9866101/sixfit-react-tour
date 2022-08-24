@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sixfit-react-tour/precache-manifest.d430becd3814d1b901d06f4eec60ef43.js"
+  "/sixfit-react-tour/precache-manifest.e6e97b3485eaaf8654cb8d4013157628.js"
 );
 
 workbox.clientsClaim();
